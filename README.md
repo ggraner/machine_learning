@@ -3,6 +3,7 @@
 * Trainging file: [pml-training.csv](./pml-training.csv)
 * Testing file: [pml-testing.csv](./pml-testing.csv)
 * Submission file: [submit.csv](./submit.csv)
+* HTML file: [machine_learning.html](./machine_learning.html)
 
 # Project goal
 The goal of the project is to predict the manner in which the quantified self movement group did an exercise using machine learning algorithms presented in the Coursera Modul: Practical Machine learning.
